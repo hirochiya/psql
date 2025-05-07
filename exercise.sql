@@ -1,0 +1,1 @@
+SELECT emp_name, birthday, comm,  sal, sal + COALESCE(comm,0) AS ŒŽŽû FROM employee;
