@@ -90,3 +90,17 @@ ORDER BY emp_id;
 FROM packedsales
 ORDER BY emp_id;
 */
+
+
+--äpìcê_Ç∆ÇÃïúèK
+
+--1
+--SELECT * FROM employee ORDER BY birthday DESC;
+
+--2
+--SELECT * FROM product WHERE cost BETWEEN '10000' AND '19999' AND discount IS NULL;
+
+--3
+/*SELECT * FROM packedsales WHERE cust_address LIKE '%ç`ãÊ%';
+SELECT * FROM customer WHERE cust_id = 3;
+*/
